@@ -1,0 +1,14 @@
+/home/ramzan/RiderProjects/lol/lol/obj/Debug/net10.0/lol.GeneratedMSBuildEditorConfig.editorconfig
+/home/ramzan/RiderProjects/lol/lol/obj/Debug/net10.0/lol.AssemblyInfoInputs.cache
+/home/ramzan/RiderProjects/lol/lol/obj/Debug/net10.0/lol.AssemblyInfo.cs
+/home/ramzan/RiderProjects/lol/lol/obj/Debug/net10.0/lol.csproj.CoreCompileInputs.cache
+/home/ramzan/RiderProjects/lol/lol/bin/Debug/net10.0/lol
+/home/ramzan/RiderProjects/lol/lol/bin/Debug/net10.0/lol.deps.json
+/home/ramzan/RiderProjects/lol/lol/bin/Debug/net10.0/lol.runtimeconfig.json
+/home/ramzan/RiderProjects/lol/lol/bin/Debug/net10.0/lol.dll
+/home/ramzan/RiderProjects/lol/lol/bin/Debug/net10.0/lol.pdb
+/home/ramzan/RiderProjects/lol/lol/obj/Debug/net10.0/lol.dll
+/home/ramzan/RiderProjects/lol/lol/obj/Debug/net10.0/refint/lol.dll
+/home/ramzan/RiderProjects/lol/lol/obj/Debug/net10.0/lol.pdb
+/home/ramzan/RiderProjects/lol/lol/obj/Debug/net10.0/lol.genruntimeconfig.cache
+/home/ramzan/RiderProjects/lol/lol/obj/Debug/net10.0/ref/lol.dll

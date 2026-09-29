@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6C2g0tjzXY=",
+  "success": true,
+  "projectFilePath": "/home/ramzan/RiderProjects/lol/lol/lol.csproj",
+  "expectedPackageFiles": [
+    "/home/ramzan/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
